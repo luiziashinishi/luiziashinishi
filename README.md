@@ -1,8 +1,8 @@
 ## Hello! I'm Luiz Iashinishi
 
 - 🌱 I'm starting in programming
-- Learning about wordpress/elementor
-- Upcoming studies: HTML, CSS and Javascript
+- 📖 Learning about wordpress/elementor
+- 💻 Upcoming studies: HTML, CSS and Javascript
 
 <div>
   <a href="https://github.com/luiziashinishi">
