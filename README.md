@@ -2,7 +2,7 @@
 
 - 🌱 I'm starting in programming
 - 📖 Learning about HTML, CSS and Javascript
-- 💻 Upcoming studies: react js and typescript
+- 💻 Upcoming studies: PhP
 
 <div>
   <a href="https://github.com/luiziashinishi">
